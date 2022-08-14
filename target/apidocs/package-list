@@ -1,0 +1,7 @@
+mobile.business
+mobile.domain
+mobile.persistence
+mobile.ui
+mobile.ui.presenter
+mobile.ui.view
+mobile.ui.view.form
